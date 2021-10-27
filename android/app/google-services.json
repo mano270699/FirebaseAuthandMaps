@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145247473986",
+    "project_id": "fir-maps-learning",
+    "storage_bucket": "fir-maps-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145247473986:android:e85c5967df304c5490b8db",
+        "android_client_info": {
+          "package_name": "com.example.authphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145247473986-rh9rnmb1gtsopikm811hds4s3rlr2blc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO30-WsSVMqgn3QPPypky88KXy8GRAu8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145247473986-rh9rnmb1gtsopikm811hds4s3rlr2blc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
